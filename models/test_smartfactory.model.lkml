@@ -41,3 +41,5 @@ explore: numeric_data_series {
     relationship: one_to_many
   }
 }
+
+explore: spot_pics {}
